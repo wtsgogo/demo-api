@@ -1,0 +1,7 @@
+*.db
+*.rdb
+*.exe
+*.ini
+*.log
+*.out
+demo-api
